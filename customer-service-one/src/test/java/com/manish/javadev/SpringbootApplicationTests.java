@@ -1,4 +1,4 @@
-package com.manish.javadev.springbootserviceone;
+package com.manish.javadev;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
